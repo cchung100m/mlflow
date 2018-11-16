@@ -1,5 +1,5 @@
-.. image:: https://travis-ci.org/cchung100m/mlflow.svg?branch=master
-   :target: https://travis-ci.org/cchung100m/mlflow
+.. image:: https://travis-ci.org/mlflow/mlflow.svg?branch=master
+   :target: https://travis-ci.org/mlflow/mlflow
    :alt: Travis Build
 ===================
 MLflow Beta Release
