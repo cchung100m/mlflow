@@ -1,4 +1,6 @@
-[![Build Status](https://travis-ci.org/cchung100m/mlflow.svg?branch=master)](https://travis-ci.org/cchung100m/mlflow)
+.. image:: https://travis-ci.org/cchung100m/mlflow.svg?branch=master
+   :target: https://travis-ci.org/cchung100m/mlflow
+   :alt: Travis Build
 ===================
 MLflow Beta Release
 ===================
