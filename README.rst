@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/cchung100m/mlflow.svg?branch=master)](https://travis-ci.org/cchung100m/mlflow)
 ===================
 MLflow Beta Release
 ===================
